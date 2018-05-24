@@ -1,3 +1,9 @@
 This is a file that contains some text
 
 Now there is another line of text...
+
+“You buy furniture. You tell yourself, this is the last sofa I will ever need in my life.
+Buy the sofa, then for a couple years you're satisfied that no matter what goes wrong, at 
+least you've got your sofa issue handled. Then the right set of dishes. Then the perfect bed. 
+The drapes. The rug. Then you're trapped in your lovely nest, and the things you used to own, 
+now they own you.” 
